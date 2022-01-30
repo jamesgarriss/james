@@ -4,7 +4,7 @@ The page contains information about the discipleship class on the book of James 
 
 ## Handouts
 
-The following links are the handouts for the class:
+The following links are the PDF handouts for the class:
 
 * [Schedule](Schedule.pdf)
 * [Introduction](Introduction.pdf)
