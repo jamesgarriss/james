@@ -9,6 +9,7 @@ The following links are the PDF handouts for the class:
 * [Schedule](Schedule.pdf)
 * [Introduction](Introduction.pdf)
 * [James 1:1-12](James-1-2-12.pdf)
+* [James 1:13-18](James-1-13-18.pdf)
 
 ## Video
 
