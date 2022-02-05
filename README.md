@@ -1,6 +1,6 @@
 # James
 
-The page contains information about the discipleship class on the book of James at Boiling Springs First Baptist Church for the spring of 2022.
+The page contains information about the discipleship class on the book of [James](https://netbible.org/bible/James+1) at [Boiling Springs First Baptist Church](https://www.bsfbc.org) for the spring of 2022.
 
 ## Handouts
 
