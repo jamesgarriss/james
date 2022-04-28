@@ -16,6 +16,8 @@ The following links are the PDF handouts for the class:
 * [James 3:13-18](James-3-13-18.pdf)
 * [James 4:1-10](James-4-1-10.pdf)
 * [James 4:11-12](James-4-11-12.pdf)
+* [James 4:13-17](James-4-13-17.pdf)
+* [James 5:1-6](James-5-1-6.pdf)
 
 ## Video
 
