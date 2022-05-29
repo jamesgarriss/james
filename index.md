@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# James
 
-You can use the [editor on GitHub](https://github.com/jamesgarriss/james/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The page contains information about the discipleship class on the book of [James](https://netbible.org/bible/James+1) at [Boiling Springs First Baptist Church](https://www.bsfbc.org) for the spring of 2022.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Handouts
 
-### Markdown
+The following links are the PDF handouts for the class:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [Schedule](Schedule.pdf)
+* [Introduction](Introduction.pdf)
+* [James 1:1-12](James-1-2-12.pdf)
+* [James 1:13-18](James-1-13-18.pdf)
+* [James 2:1-13](James-2-1-13.pdf)
+* [James 2:14-26](James-2-14-26.pdf)
+* [James 3:1-12](James-3-1-12.pdf)
+* [James 3:13-18](James-3-13-18.pdf)
+* [James 4:1-10](James-4-1-10.pdf)
+* [James 4:11-12](James-4-11-12.pdf)
+* [James 4:13-17](James-4-13-17.pdf)
+* [James 5:1-6](James-5-1-6.pdf)
+* [James 5:7-11](James-5-7-11.pdf)
+* [James 5:12](James-5-12.pdf)
 
-```markdown
-Syntax highlighted code block
+## Video
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jamesgarriss/james/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The videos of the class can be found on [this YouTube channel](https://www.youtube.com/channel/UCjZQO8kd_0ksKya2PGQ39ow/videos).
