@@ -20,6 +20,8 @@ The following links are the PDF handouts for the class:
 * [James 5:1-6](James-5-1-6.pdf)
 * [James 5:7-11](James-5-7-11.pdf)
 * [James 5:12](James-5-12.pdf)
+* [James 5:13-18](James-5-13-18.pdf)
+* [James 5:19-20](James-5-19-20.pdf)
 
 ## Video
 
